@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2386211,
+    "Username": "Lhyr",
+    "Name": "Lacroix Guénolé",
+    "Email": "thranduil1fr@yahoo.fr",
+    "AvatarUrl": "https://assets.gitlab-static.net/uploads/-/system/user/avatar/2386211/avatar.png",
+    "PrivateToken": "c23e74de671306ca334e30523547252662fdc2903a30e62b9bd1e378ddb6a3da",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSNEnergy", "CSNEnergy\CSNEnergy.csproj", "{B027EE9B-4CA3-4B0D-BAB8-108F3DA986DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSNEnergy_TestsUnitaires", "CSNEnergy_TestsUnitaires\CSNEnergy_TestsUnitaires.csproj", "{77822C38-F3F7-406A-83A5-95E9628012AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B027EE9B-4CA3-4B0D-BAB8-108F3DA986DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B027EE9B-4CA3-4B0D-BAB8-108F3DA986DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B027EE9B-4CA3-4B0D-BAB8-108F3DA986DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B027EE9B-4CA3-4B0D-BAB8-108F3DA986DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77822C38-F3F7-406A-83A5-95E9628012AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77822C38-F3F7-406A-83A5-95E9628012AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77822C38-F3F7-406A-83A5-95E9628012AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77822C38-F3F7-406A-83A5-95E9628012AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9D3492-7941-4ABA-9CF9-39E8861C8D4B}
+	EndGlobalSection
+EndGlobal
